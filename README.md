@@ -3,7 +3,7 @@ A simple Youtube video downloader built using Pytube and Tkinter
 
 Pytube python library was used to provide the main functionalities of the application. Tkinter was used to create the GUI.
 
-Upo launch, the applications asks the user to input the link of the video to be downloaded along with the resolution required.
+Upon launch, the applications asks the user to input the link of the video to be downloaded along with the resolution required.
 In case of the following errors,
   1. The link being invalid
   2. The resolution entered is invalid
