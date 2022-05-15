@@ -17,3 +17,5 @@ The default download location is the downloads folder in the C drive.
 
 Once the video is downloaded, it is notified to the user via a success message. Upon this the application doesn't close and instead it clears out the fields.
 The user can use the application again without restarting.
+
+You can find the single executable file for the application inside the dist folder.
