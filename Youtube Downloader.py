@@ -127,6 +127,7 @@ def close_window(window, dlt_link, dlt_res):
 
 def select_stream(video, res):
     resolution = str(res)
+    stream = None
     if resolution == "144p":
         stream = video.streams.filter(res="144p").first()
     elif resolution == "240p":
